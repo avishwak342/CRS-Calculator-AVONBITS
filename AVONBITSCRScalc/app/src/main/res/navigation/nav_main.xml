@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_my_scores"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.menu.my_scores.MyScoresFragment"
+        android:label="MyScoresFragment" />
+    <fragment
+        android:id="@+id/nav_my_account"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.menu.my_account.MyAccountFragment"
+        android:label="MyAccountFragment" />
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.menu.home.HomeFragment"
+        android:label="home_fragment"
+        tools:layout="@layout/home_fragment" />
+
+    <fragment
+        android:id="@+id/completeFragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.complete.CompleteFragment"
+        android:label="home_fragment"
+        tools:layout="@layout/complete_fragment" />
+
+    <fragment
+        android:id="@+id/questions1And2Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.1_2.Questions1And2Fragment"
+        android:label="Questions1And2Fragment" />
+    <fragment
+        android:id="@+id/question3Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.3.Question3Fragment"
+        android:label="Question3Fragment" />
+    <fragment
+        android:id="@+id/question10Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.10.Question10Fragment"
+        android:label="Question10Fragment" />
+    <fragment
+        android:id="@+id/question4Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.4.Question4Fragment"
+        android:label="Question4Fragment" />
+    <fragment
+        android:id="@+id/question5Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.5.Question5Fragment"
+        android:label="Question5Fragment" />
+    <fragment
+        android:id="@+id/question6Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.6.Question6Fragment"
+        android:label="Question6Fragment" />
+    <fragment
+        android:id="@+id/question7Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.7.Question7Fragment"
+        android:label="Question7Fragment" />
+    <fragment
+        android:id="@+id/question8Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.8.Question8Fragment"
+        android:label="Question8Fragment" />
+    <fragment
+        android:id="@+id/question9Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.9.Question9Fragment"
+        android:label="Question9Fragment" />
+
+    <fragment
+        android:id="@+id/question11Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.11.Question11Fragment"
+        android:label="Question9Fragment" />
+
+    <fragment
+        android:id="@+id/question12Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.12.Question12Fragment"
+        android:label="Question9Fragment" />
+
+    <fragment
+        android:id="@+id/question13Fragment"
+        android:name="com.ashish.avonbitscrscalc.ui.fragment.questions.13.Question13Fragment"
+        android:label="Question9Fragment" />
+
+</navigation>
