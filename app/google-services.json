@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591997321556",
+    "project_id": "avonbits-crs-calc",
+    "storage_bucket": "avonbits-crs-calc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591997321556:android:84963235ff4f282c4608c1",
+        "android_client_info": {
+          "package_name": "com.ashish.avonbitscrscalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591997321556-3rla51t2k79m64gk522gna0fnn317nvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsHoHnGCPhjpaDl6THgSBPJ21bNyP35AU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591997321556-3rla51t2k79m64gk522gna0fnn317nvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

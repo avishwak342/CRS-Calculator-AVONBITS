@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">AVONBITS CRS calc</string>
+
+    <!-- Others -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Errors -->
+    <string name="email_AuthDBConnector_error">ERROR_INVALID_EMAIL</string>
+    <string name="credential_AuthDBConnector_error">ERROR_INVALID_CREDENTIAL</string>
+    <string name="other_password_AuthDBConnector_error">ERROR_ACCOUNT_EXISTS_WITH_DIFFERENT_CREDENTIAL</string>
+    <string name="user_mismatch_AuthDBConnector_error">ERROR_USER_MISMATCH</string>
+    <string name="user_not_found_AuthDBConnector_error">ERROR_USER_NOT_FOUND</string>
+    <string name="password_AuthDBConnector_error">ERROR_WRONG_PASSWORD</string>
+    <string name="password2_AuthDBConnector_error">ERROR_WEAK_PASSWORD</string>
+    <string name="AuthDBConnector_error_message">Failed to authenticate</string>
+    <string name="error">Error</string>
+    <string name="error_email_view">Wrong Mail</string>
+    <string name="error_password_view">Wrong Password</string>
+    <string name="not_equals_password_view">Passwords don\'t match</string>
+    <string name="mix_six_characters_password_view">The password must be a minimum of 6 characters</string>
+    <string name="complete_this">Complete this</string>
+    <string name="select_a_option">Select an option</string>
+    <string name="not_applicable">not applicable</string>
+
+    <!-- Key words -->
+    <string name="users" translatable="false">users</string>
+    <string name="scores" translatable="false">scores</string>
+    <string name="score" translatable="false">score</string>
+    <string name="date" translatable="false">date</string>
+    <string name="name" translatable="false">name</string>
+
+    <!-- View -->
+    <string name="sign_in_view">Sign In</string>
+    <string name="mail_view">Mail</string>
+    <string name="password_view">Password</string>
+    <string name="you_do_not_have_an_account_view">You do not have an account ?</string>
+    <string name="create_account_view">Create Account</string>
+    <string name="accept_view">Accept</string>
+    <string name="confirm_password_view">Confirm Password</string>
+    <string name="name_view">Name</string>
+    <string name="options_view">Options</string>
+    <string name="sign_out_view">Sign Out</string>
+    <string name="scores_view">Scores</string>
+    <string name="start_crs_view">Start CRS</string>
+    <string name="start_view">Start</string>
+    <string name="calculate_crs_view">Calculate CRS</string>
+    <string name="next_view">Next</string>
+    <string name="complete_view">Complete</string>
+    <string name="speaking_view">Speaking:</string>
+    <string name="listening_view">Listening:</string>
+    <string name="reading_view">Reading:</string>
+    <string name="writing_view">Writing:</string>
+
+    <string name="q_1">1) What is your marital status?</string>
+    <string name="q_2">2) i. Is your spouse or common-law partner a citizen or permanent resident of Canada?</string>
+    <string name="q_2_ii">2) ii. Will your spouse or common-law partner come with you to Canada?</string>
+    <string name="q_3">3) How old are you?</string>
+    <string name="d_3_i">Choose the best answer:</string>
+    <string name="or">OR</string>
+    <string name="d_3_i_1">- If you’ve been invited to apply, enter your age on the date you were invited.</string>
+    <string name="d_3_i_2">- If you plan to complete an Express Entry profile, enter your current age.</string>
+    <string name="q_4">4) What is your level of education?</string>
+    <string name="d_4_1">Enter the highest level of education for which you:</string>
+    <string name="d_4_2">- earned a Canadian degree, diploma or certificate or</string>
+    <string name="d_4_3">- had an Educational Credential Assessment (ECA) if you did your study outside Canada. (ECAs must be from an approved agency, in the last five years)</string>
+    <string name="d_4_4">Note: a Canadian degree, diploma or certificate must either have been earned at an accredited Canadian university, college, trade or technical school, or other institute in Canada. Distance learning counts for education points, but not for bonus points in your profile or application.</string>
+    <string name="q_4_b">4b) Have you earned a Canadian degree, diploma or certificate?</string>
+    <string name="d_4_b_1">Note: to answer yes:</string>
+    <string name="d_4_b_2">- English or French as a Second Language must not have made up more than half your study</string>
+    <string name="d_4_b_3">- you must not have studied under an award that required you to return to your home country after graduation to apply your skills and knowledge</string>
+    <string name="d_4_b_4">- you must have studied at a school within Canada (foreign campuses don’t count)</string>
+    <string name="d_4_b_5">- you had to be enrolled full time for at least eight months, and have been physically present in Canada for at least eight months</string>
+    <string name="q_4_c">4c) Choose the best answer to describe this level of education.</string>
+    <string name="q_5">5) Official languages: Canada\'s official languages are English and French.</string>
+    <string name="d_5_1">You need to submit language test results that are less than two years old for all programs under Express Entry, even if English or French is your first language.</string>
+    <string name="q_5_i">i. Are your test results less than two years old?</string>
+    <string name="q_5_ii">ii. Which language test did you take for your first official language?</string>
+    <string name="q_5_iii">iii. Do you have other language results?</string>
+    <string name="d_5_ii_1">If so, which language test did you take for your second official language? Test results must be less than two years old.</string>
+    <string name="q_6">6) Work Experience</string>
+    <string name="q_6_i">i. In the last ten years, how many years of skilled work experience in Canada do you have?</string>
+    <string name="d_6_i_1">It must have been paid and full-time (or an equal amount in part-time).</string>
+    <string name="d_6_i_2">Note: In Canada, the National Occupational Classification (NOC) is the official list of all the jobs in the Canadian labour market. It describes each job according to skill type, group and level.</string>
+    <string name="d_6_i_3">Skilled work in the NOC is:</string>
+    <string name="d_6_i_4">- managerial jobs (NOC Skill Level 0)</string>
+    <string name="d_6_i_5">- professional jobs (NOC Skill Type A)</string>
+    <string name="d_6_i_6">- technical jobs and skilled trades/manual work (NOC Skill Type B)</string>
+    <string name="d_6_i_7">If you aren’t sure of the NOC level for this job, you can find your NOC.</string>
+    <string name="q_6_ii">ii. In the last 10 years, how many total years of foreign skilled work experience do you have?</string>
+    <string name="d_6_ii">It must have been paid, full-time (or an equal amount in part-time), and in only one occupation (NOC skill type 0, A or B).</string>
+    <string name="q_7">7) Do you have a certificate of qualification from a Canadian province, territory or federal body?</string>
+    <string name="d_7_1">Note: A certificate of qualification lets people work in some skilled trades in Canada. Only the provinces, territories and a federal body can issue these certificates. To get one, a person must have them assess their training, trade experience and skills to and then pass a certification exam.</string>
+    <string name="d_7_2">People usually have to go to the province or territory to be assessed. They may also need experience and training from an employer in Canada.</string>
+    <string name="d_7_3">This isn’t the same as a nomination from a province or territory.</string>
+    <string name="q_8">8) Do you have a valid job offer supported by a Labour Market Impact Assessment (if needed)?</string>
+    <string name="d_8_1">A valid job offer must be</string>
+    <string name="d_8_2">- full-time</string>
+    <string name="d_8_3">- in a skilled job listed as Skill Type 0, or Skill Level A or B in the 2011 National Occupational Classification</string>
+    <string name="d_8_4">- supported by a Labour Market Impact Assessment (LMIA) or exempt from needing one</string>
+    <string name="d_8_5">- for one year from the time you become a permanent resident</string>
+    <string name="d_8_6">A job offer isn’t valid if your employer is:</string>
+    <string name="d_8_7">an embassy, high commission or consulate in Canada or</string>
+    <string name="d_8_8">on the list of ineligible employers.</string>
+    <string name="d_8_9">Whether an offer is valid or not also depends on different factors, depending on your case. See a full list of criteria for valid job offers.</string>
+    <string name="q_8_a">8a) Which NOC skill type or level is the job offer?</string>
+    <string name="d_8_a_1">You can use our online tool to find out if you don’t know.</string>
+    <string name="q_9">9) Do you have a nomination certificate from a province or territory?</string>
+    <string name="q_10">10) Do you or your spouse or common law partner (if they will come with you to Canada) have at least one brother or sister living in Canada who is a citizen or permanent resident?</string>
+    <string name="d_10_1">Note: to answer yes, the brother or sister must be:</string>
+    <string name="d_10_2">- 18 years old or older</string>
+    <string name="d_10_3">- related to you or your partner by blood, marriage, common-law partnership or adoption</string>
+    <string name="d_10_4">- have a parent in common with you or your partner</string>
+    <string name="d_10_5">A brother or sister is related to you by:</string>
+    <string name="d_10_6">- blood (biological)</string>
+    <string name="d_10_7">adoption</string>
+    <string name="d_10_8">marriage (step-brother or step-sister)</string>
+    <string name="q_11">11) What is the highest level of education for which your spouse or common-law partner\'s has:</string>
+    <string name="d_11_1">- earned a Canadian degree, diploma or certificate; or</string>
+    <string name="d_11_2">- had an Educational Credential Assessment (ECA)? (ECAs must be from an approved agency, in the last five years)</string>
+    <string name="d_11_3">To get the correct number of points, make sure you choose the answer that best reflects your case. For example:</string>
+    <string name="d_11_4">If you have TWO Bachelor’s degrees, or one Bachelor’s AND a two year college diploma, choose – “Two or more certificates, diplomas, or degrees. One must be for a program of three or more years.”</string>
+    <string name="q_12">12) In the last ten years, how many years of skilled work experience in Canada does your spouse/common-law partner have?</string>
+    <string name="d_12">It must have been paid, full-time (or an equal amount in part-time), and in one or more NOC 0, A or B jobs.</string>
+    <string name="q_13">13) i) Did your spouse or common-law partner take a language test? If so, which one?</string>
+    <string name="d_13_1">Test results must be less than two years old.</string>
+    <string name="score_view">Score</string>
+</resources>

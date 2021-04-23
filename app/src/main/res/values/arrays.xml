@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="what_is_your_marital_status"> <!-- 1 -->
+        <item>Select...</item>
+        <item>Annulled Marriage</item>
+        <item>Common-Law</item>
+        <item>Divorced / Separated</item>
+        <item>Legally Separated</item>
+        <item>Married</item>
+        <item>Never Married / Single</item>
+        <item>Widowed</item>
+    </string-array>
+
+    <string-array name="is_your_spouse_or_common_law_partnert_a_citizen_or_permanent_residen_of_canada"> <!-- if 1 == common-law || married 2 i -->
+        <item>Select...</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="will_your_spouse_or_common_law_partner_come_with_you_to_canada"> <!-- if 1 == common-law || married 2 ii -->
+        <item>Select...</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="how_old_are_you"> <!-- 3 -->
+        <item>Select...</item>
+        <item>17 years of age or less</item>
+        <item>18 years of age</item>
+        <item>19 years of age</item>
+        <item>20 years of age</item>
+        <item>21 years of age</item>
+        <item>22 years of age</item>
+        <item>23 years of age</item>
+        <item>24 years of age</item>
+        <item>25 years of age</item>
+        <item>26 years of age</item>
+        <item>27 years of age</item>
+        <item>28 years of age</item>
+        <item>29 years of age</item>
+        <item>30 years of age</item>
+        <item>31 years of age</item>
+        <item>32 years of age</item>
+        <item>33 years of age</item>
+        <item>34 years of age</item>
+        <item>35 years of age</item>
+        <item>36 years of age</item>
+        <item>37 years of age</item>
+        <item>38 years of age</item>
+        <item>39 years of age</item>
+        <item>40 years of age</item>
+        <item>41 years of age</item>
+        <item>42 years of age</item>
+        <item>43 years of age</item>
+        <item>44 years of age</item>
+        <item>45 years of age or more</item>
+    </string-array>
+
+    <string-array name="what_is_your_level_of_education"> <!-- 4 -->
+        <item>Select...</item>
+        <item>None, or less than secondary (high school)</item>
+        <item>Secondary diploma (high school graduation)</item>
+        <item>One-year program at a university, college, trade or technical school, or other institute</item>
+        <item>Two-year program at a university, college, trade or technical school, or other institute</item>
+        <item>Bachelor\'s degree (three or more year program at a university, college, trade or technical school, or other institute)</item>
+        <item>Two or more certificates, diplomas or degrees. One must be for a program of three or more years</item>
+        <item>Master\'s degree, or professional degree needed to practice in a licensed profession (see Help)</item>
+        <item>Doctoral level university degree (PhD)</item>
+    </string-array>
+
+    <string-array name="have_yout_earned_a_canadian_degree_diploma_or_certificate"> <!-- 4 b -->
+        <item>Select...</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="choose_the_best_awnser_to_describe_this_level_of_education"> <!-- if 4 b == yes 4 c -->
+        <item>Select...</item>
+        <item>Secondary (high school) or less</item>
+        <item>One- or two-year diploma or certificate</item>
+        <item>Degree, diploma or certificate of three years or longer OR a Master’s, professional or doctoral degree of at least one academic year</item>
+    </string-array>
+
+    <string-array name="are_your_test_result_less_than_two_years_old"> <!-- 5 i -->
+        <item>Select...</item>
+        <item>Yes</item>
+        <item>No</item>
+
+    </string-array>
+
+    <string-array name="which_lenguage_test_did_you_take_for_your_first_official_lenguage"> <!-- 5 ii -->
+        <item>Select...</item>
+        <item>CELPIP-G</item>
+        <item>IELTS</item>
+        <item>TEF Canada</item>
+        <item>TCF Canada</item>
+    </string-array>
+
+    <string-array name="celpip_g">
+        <item>Select...</item>
+        <item>10 - 12</item>
+        <item>9</item>
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>M, 0 - 3</item>
+    </string-array>
+
+    <string-array name="ielts_speaking_writing">
+        <item>Select...</item>
+        <item>7.5 - 9.0</item>
+        <item>7.0</item>
+        <item>6.5</item>
+        <item>6.0</item>
+        <item>5.5</item>
+        <item>5.0</item>
+        <item>4.0 - 4.5</item>
+        <item>0 - 3.5</item>
+    </string-array>
+
+    <string-array name="ielts_listening">
+        <item>Select...</item>
+        <item>8.5 - 9.0</item>
+        <item>8.0</item>
+        <item>7.5</item>
+        <item>6.0 - 7.0</item>
+        <item>5.5</item>
+        <item>5.0</item>
+        <item>4.5</item>
+        <item>0 - 4</item>
+    </string-array>
+
+    <string-array name="ielts_reading">
+        <item>Select...</item>
+        <item>8 - 9.0</item>
+        <item>7.0 - 7.5</item>
+        <item>6.5</item>
+        <item>6.0</item>
+        <item>5.0 - 5.5</item>
+        <item>4.0 - 4.5</item>
+        <item>3.5</item>
+        <item>0 - 3.0</item>
+    </string-array>
+
+    <string-array name="tef_canada_speaking_writing">
+        <item>Select...</item>
+        <item>393-450</item>
+        <item>371-392</item>
+        <item>349-370</item>
+        <item>310-348</item>
+        <item>271-309</item>
+        <item>226-270</item>
+        <item>181-225</item>
+        <item>0-180</item>
+
+    </string-array>
+
+    <string-array name="tef_canada_listening">
+        <item>Select...</item>
+        <item>316-360</item>
+        <item>298-315</item>
+        <item>280-297</item>
+        <item>249-279</item>
+        <item>217-248</item>
+        <item>181-216</item>
+        <item>145-180</item>
+        <item>0-144</item>
+
+    </string-array>
+
+    <string-array name="tef_canada_reading">
+        <item>Select...</item>
+        <item>263-300</item>
+        <item>248-262</item>
+        <item>233-247</item>
+        <item>207-232</item>
+        <item>181-206</item>
+        <item>251-180</item>
+        <item>121-150</item>
+        <item>0-120</item>
+
+    </string-array>
+
+    <string-array name="tcd_canada_speaking_writing">
+        <item>Select...</item>
+        <item>16-20</item>
+        <item>14-15</item>
+        <item>12-13</item>
+        <item>10-11</item>
+        <item>7-9</item>
+        <item>6</item>
+        <item>4-5</item>
+        <item>0-3</item>
+
+    </string-array>
+
+    <string-array name="tcd_canada_listening">
+        <item>Select...</item>
+        <item>549-699</item>
+        <item>523-548</item>
+        <item>503-522</item>
+        <item>458-502</item>
+        <item>398-457</item>
+        <item>369-397</item>
+        <item>331-368</item>
+        <item>0-330</item>
+
+    </string-array>
+
+    <string-array name="tcd_canada_reading">
+        <item>Select...</item>
+        <item>549-699</item>
+        <item>524-548</item>
+        <item>499-523</item>
+        <item>453-498</item>
+        <item>406-452</item>
+        <item>375-405</item>
+        <item>342-374</item>
+        <item>0-341</item>
+
+    </string-array>
+
+    <string-array name="in_the_last_ten_years_how_many_years_of_skilled_work_experience_in_canada_do_you_have"> <!-- 6 i -->
+        <item>Select...</item>
+        <item>None or less than a year</item>
+        <item>1 year</item>
+        <item>2 years</item>
+        <item>3 years</item>
+        <item>4 years</item>
+        <item>5 years or more</item>
+
+    </string-array>
+
+    <string-array name="in_the_last_10_years_how_many_total_years_of_foreign_skilled_work_experience_do_you_have"> <!-- 6 ii -->
+        <item>Select...</item>
+        <item>None or less than a year</item>
+        <item>1 year</item>
+        <item>2 years</item>
+        <item>3 years or more</item>
+    </string-array>
+
+    <string-array name="do_you_have_a_certificate_of_qualification_from_a_canadian_procince_territory_or_federal_body">
+        <item>Select...</item>
+        <item>Yes</item>
+        <item>No</item>
+
+    </string-array>
+
+    <string-array name="do_you_have_a_nomination_certificate_from_a_province_or_territory">
+        <item>Select...</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="do_you_or_your_spouse_or_common_law_partner__if_they_will_come_with_you_to_canada__have_at_least_one_brother_or_sister_living_in_canada_who_is_a_citizen_or_permanent_resident">
+        <item>Select...</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="do_you_have_a_valid_job_offer_supported_by_a_labour_market_impact_assessment_if_needed">
+        <item>Select...</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+
+    <string-array name="which_noc_skill_type_or_level_is_the_job_offer">
+        <item>Select...</item>
+        <item>NOC Skill Type 00</item>
+        <item>NOC Skill Level A or B or any Type 0 other than 00</item>
+        <item>NOC Skill Level C or D</item>
+    </string-array>
+
+
+    <string-array name="what_is_the_highest_level_of_education_for_which_your_spouse_or_coomon_law">
+        <item>Select...</item>
+        <item>None, or less than secondary (high school)</item>
+        <item>Secondary diploma (high school graduation)</item>
+        <item>One-year program at a university, college, trade or technical school, or other institute</item>
+        <item>Two-year program at a university, college, trade or technical school, or other institute</item>
+        <item>Bachelor\'s degree (three or more year program at a university, college, trade or technical school, or other institute)</item>
+        <item>Two or more certificates, diplomas or degrees. One must be for a program of three or more years</item>
+        <item>Master\'s degree, or professional degree needed to practice in a licensed profession (see Help)</item>
+        <item>Doctoral level university degree (PhD)</item>
+    </string-array>
+
+    <string-array name="in_the_last_ten_years_many_years_of_skilled_worik_">
+        <item>Select...</item>
+        <item>None or less than a year</item>
+        <item>1 year</item>
+        <item>2 years</item>
+        <item>3 years</item>
+        <item>4 years</item>
+        <item>5 years or more</item>
+    </string-array>
+
+
+</resources>
